@@ -1,0 +1,25 @@
+Np-Scanner - Copyright (C) 2015-16 by Shubham Dubey <sdubey504@gmail.com>
+
+Published under the terms of the GNU General Public License.
+See http://www.gnu.org/licenses/gpl.html for a recent copy.
+
+
+=== Np-scanner TODOs ===
+
+->use threading for multiple ip scanning
+
+->to not get messy result in multithreading use thread lock semaphore.
+
+->option for checking particular port can also be  added.
+
+->make it intellingent by skiping the dead systems and fast scan can be implement by only scanning port with expect to
+have some service running on
+
+->add full scanner which scan till 6000 ports
+
+=== Np-scanner Wishlist ===
+
+
+
+
+If you find any issues with this programme please let me know.
