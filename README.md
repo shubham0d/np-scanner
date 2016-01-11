@@ -22,7 +22,7 @@ Features
 
 To start
 --------
-* $npscan
+* $npscanner
 * Clone repo `git clone git://github.com/shubham0d/np-scanner`.
 
 Known issues
