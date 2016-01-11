@@ -30,4 +30,4 @@ Known issues
 
 Please refer to the TODO file that has been shipped with Np-scanner.
 
-*Thanks in advance for your feedback and contributions
+Thanks in advance for your feedback and contributions
